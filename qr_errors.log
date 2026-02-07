@@ -1,0 +1,689 @@
+[28-Jan-2026 16:29:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ALLSEL004', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ALLSEL004', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:31:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 C:\Users\Bastin\Desktop\Parish M\family_form.php(56): include('C:\\Users\\Bastin...')
+#5 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:31:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:33:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:33:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:34:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('BASSIN005', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('BASSIN005', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:34:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:35:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:35:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 C:\Users\Bastin\Desktop\Parish M\family_form.php(56): include('C:\\Users\\Bastin...')
+#5 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:35:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('BASSIN005', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('BASSIN005', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:36:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('BASSIN005', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('BASSIN005', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:36:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:36:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:37:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:37:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:38:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:38:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:38:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 16:40:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatetruecolor() in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php:1097
+Stack trace:
+#0 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(1055): QRimage::image(Array, 10, 2)
+#1 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3630): QRimage::png(Array, 'C:\\Users\\Bastin...', 10, 2, false)
+#2 C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php(3418): QRencode->encodePNG('ARUANN008', 'C:\\Users\\Bastin...', false)
+#3 C:\Users\Bastin\Desktop\Parish M\generate_qr.php(49): QRcode::png('ARUANN008', 'C:\\Users\\Bastin...', 0, 10, 2)
+#4 {main}
+  thrown in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1097
+[28-Jan-2026 17:24:17 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[28-Jan-2026 17:24:17 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[28-Jan-2026 17:24:17 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[28-Jan-2026 17:24:17 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[28-Jan-2026 17:24:17 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[28-Jan-2026 17:24:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[28-Jan-2026 17:24:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[28-Jan-2026 17:24:59 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[28-Jan-2026 17:24:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[28-Jan-2026 17:24:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[28-Jan-2026 17:26:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[28-Jan-2026 17:26:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[28-Jan-2026 17:26:59 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[28-Jan-2026 17:26:59 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 89
+[28-Jan-2026 17:26:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[28-Jan-2026 17:26:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[28-Jan-2026 17:26:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[28-Jan-2026 17:26:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[28-Jan-2026 17:26:59 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[28-Jan-2026 17:26:59 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 89
+[28-Jan-2026 17:26:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[28-Jan-2026 17:26:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[28-Jan-2026 17:30:51 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[28-Jan-2026 17:30:51 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[28-Jan-2026 17:30:51 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[28-Jan-2026 17:30:51 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 89
+[28-Jan-2026 17:30:51 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[28-Jan-2026 17:30:51 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[28-Jan-2026 17:45:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[28-Jan-2026 17:45:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[28-Jan-2026 17:45:36 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[28-Jan-2026 17:45:36 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 89
+[28-Jan-2026 17:45:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[28-Jan-2026 17:45:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[28-Jan-2026 17:46:01 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[28-Jan-2026 17:46:01 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[28-Jan-2026 17:46:01 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[28-Jan-2026 17:46:01 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 89
+[28-Jan-2026 17:46:01 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[28-Jan-2026 17:46:01 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[28-Jan-2026 17:54:50 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[28-Jan-2026 17:54:50 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[28-Jan-2026 17:54:50 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[28-Jan-2026 17:54:50 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[28-Jan-2026 17:54:50 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[28-Jan-2026 18:14:26 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[28-Jan-2026 18:14:26 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[28-Jan-2026 18:14:26 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[28-Jan-2026 18:14:26 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[28-Jan-2026 18:14:26 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[29-Jan-2026 08:01:25 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:01:25 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:01:25 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[29-Jan-2026 08:01:25 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 89
+[29-Jan-2026 08:01:25 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[29-Jan-2026 08:01:25 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[29-Jan-2026 08:01:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Bastin\Desktop\Parish M\includes\header.php:106) in C:\Users\Bastin\Desktop\Parish M\family_form.php on line 58
+[29-Jan-2026 08:03:16 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:03:16 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:03:16 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[29-Jan-2026 08:03:16 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 89
+[29-Jan-2026 08:03:16 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[29-Jan-2026 08:03:16 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[29-Jan-2026 08:05:58 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:05:58 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:05:58 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[29-Jan-2026 08:05:58 UTC] PHP Deprecated:  Implicit conversion from float 86.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 89
+[29-Jan-2026 08:05:58 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[29-Jan-2026 08:05:58 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[29-Jan-2026 08:05:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Bastin\Desktop\Parish M\includes\header.php:106) in C:\Users\Bastin\Desktop\Parish M\family_form.php on line 61
+[29-Jan-2026 08:06:07 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:06:07 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:06:07 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[29-Jan-2026 08:06:07 UTC] PHP Deprecated:  Implicit conversion from float 86.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 89
+[29-Jan-2026 08:06:07 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[29-Jan-2026 08:06:07 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[29-Jan-2026 08:06:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Bastin\Desktop\Parish M\includes\header.php:106) in C:\Users\Bastin\Desktop\Parish M\family_form.php on line 61
+[29-Jan-2026 08:06:14 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:06:14 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:06:14 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[29-Jan-2026 08:06:14 UTC] PHP Deprecated:  Implicit conversion from float 86.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 89
+[29-Jan-2026 08:06:14 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[29-Jan-2026 08:06:14 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[29-Jan-2026 08:06:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Bastin\Desktop\Parish M\includes\header.php:106) in C:\Users\Bastin\Desktop\Parish M\family_form.php on line 61
+[29-Jan-2026 08:06:38 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:06:38 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:06:38 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[29-Jan-2026 08:06:38 UTC] PHP Deprecated:  Implicit conversion from float 86.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 89
+[29-Jan-2026 08:06:38 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[29-Jan-2026 08:06:38 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[29-Jan-2026 08:06:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Bastin\Desktop\Parish M\includes\header.php:106) in C:\Users\Bastin\Desktop\Parish M\family_form.php on line 61
+[29-Jan-2026 08:08:35 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:08:35 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:08:35 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[29-Jan-2026 08:08:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[29-Jan-2026 08:08:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[29-Jan-2026 08:08:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Bastin\Desktop\Parish M\includes\header.php:106) in C:\Users\Bastin\Desktop\Parish M\family_form.php on line 61
+[29-Jan-2026 08:10:03 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:10:03 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:10:03 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 83
+[29-Jan-2026 08:10:03 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 89
+[29-Jan-2026 08:10:03 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 120
+[29-Jan-2026 08:10:03 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 121
+[29-Jan-2026 08:12:02 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:12:02 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:12:02 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 08:12:02 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 08:12:02 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 08:12:25 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:12:25 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:12:25 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 08:12:25 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[29-Jan-2026 08:12:25 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 08:12:25 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 08:16:20 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:16:20 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:16:20 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 08:16:20 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[29-Jan-2026 08:16:20 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 08:16:20 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 08:17:10 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:17:10 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:17:10 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 08:17:10 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[29-Jan-2026 08:17:10 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 08:17:10 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 08:17:57 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:17:57 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:17:57 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 08:17:57 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[29-Jan-2026 08:17:57 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 08:17:57 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 08:20:44 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:20:44 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:20:44 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 08:20:44 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[29-Jan-2026 08:20:44 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 08:20:44 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 08:23:19 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:23:19 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:23:19 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 08:23:19 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[29-Jan-2026 08:23:19 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 08:23:19 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 08:25:17 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 08:25:17 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 08:25:17 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 08:25:17 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 08:25:17 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 14:05:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 14:05:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 14:05:37 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 14:05:37 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[29-Jan-2026 14:05:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 14:05:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 14:43:29 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 14:43:29 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 14:43:29 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 14:43:29 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 14:43:29 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 14:46:05 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 14:46:05 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 14:46:05 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 14:46:05 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 14:46:05 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 14:46:21 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 14:46:21 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 14:46:21 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 14:46:21 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 14:46:21 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 14:49:33 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 14:49:33 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 14:49:33 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 14:49:33 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 14:49:33 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 16:30:58 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 16:30:58 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 16:30:58 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 16:30:58 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[29-Jan-2026 16:30:58 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 16:30:58 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 16:32:11 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 16:32:11 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 16:32:11 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 16:32:11 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[29-Jan-2026 16:32:11 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 16:32:11 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[29-Jan-2026 16:34:58 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[29-Jan-2026 16:34:58 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[29-Jan-2026 16:34:58 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[29-Jan-2026 16:34:58 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[29-Jan-2026 16:34:58 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[29-Jan-2026 16:34:58 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 04:28:10 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 04:28:10 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 04:28:10 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[30-Jan-2026 04:28:10 UTC] PHP Deprecated:  Implicit conversion from float 86.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[30-Jan-2026 04:28:10 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 04:28:10 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 05:33:34 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 05:33:34 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 05:33:34 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[30-Jan-2026 05:33:34 UTC] PHP Deprecated:  Implicit conversion from float 86.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[30-Jan-2026 05:33:34 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 05:33:34 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:16:15 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:16:15 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:16:15 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:16:15 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:17:17 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:17:17 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:17:17 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:17:17 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:17:35 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:17:35 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:17:35 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:17:35 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:27:29 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:27:29 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:27:29 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:27:29 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:32:16 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:32:16 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:32:16 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:32:16 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:32:23 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:32:23 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:32:23 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:32:23 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:32:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:32:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:32:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:32:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:32:44 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:32:44 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:32:44 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:32:44 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:32:49 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:32:49 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:32:49 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:32:49 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:32:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:32:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:32:59 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[30-Jan-2026 06:32:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:32:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:33:00 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:33:00 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:33:00 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[30-Jan-2026 06:33:00 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:33:00 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:33:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:33:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:33:36 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[30-Jan-2026 06:33:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:33:36 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:43:29 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:43:29 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:43:29 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[30-Jan-2026 06:43:29 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:43:29 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:44:22 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:44:22 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:44:22 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:44:22 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:44:34 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:44:34 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:44:34 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:44:34 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:44:42 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:44:42 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:44:42 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[30-Jan-2026 06:44:42 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:44:42 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:44:43 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:44:43 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:44:43 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[30-Jan-2026 06:44:43 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:44:43 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:44:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:44:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:44:59 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[30-Jan-2026 06:44:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:44:59 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 06:45:35 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 06:45:35 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 06:45:35 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[30-Jan-2026 06:45:35 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 06:45:35 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[30-Jan-2026 07:38:05 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[30-Jan-2026 07:38:05 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[30-Jan-2026 07:38:05 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[30-Jan-2026 07:38:05 UTC] PHP Deprecated:  Implicit conversion from float 86.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[30-Jan-2026 07:38:05 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[30-Jan-2026 07:38:05 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[04-Feb-2026 06:35:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[04-Feb-2026 06:35:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[04-Feb-2026 06:35:37 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[04-Feb-2026 06:35:37 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[04-Feb-2026 06:35:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[04-Feb-2026 06:35:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[04-Feb-2026 06:36:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[04-Feb-2026 06:36:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[04-Feb-2026 06:36:53 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[04-Feb-2026 06:36:53 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[04-Feb-2026 06:36:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[04-Feb-2026 06:36:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[04-Feb-2026 06:37:03 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[04-Feb-2026 06:37:03 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[04-Feb-2026 06:37:03 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[04-Feb-2026 06:37:03 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[04-Feb-2026 06:37:03 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[04-Feb-2026 06:37:03 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[04-Feb-2026 06:37:41 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[04-Feb-2026 06:37:41 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[04-Feb-2026 06:37:41 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[04-Feb-2026 06:37:41 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[04-Feb-2026 06:37:41 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[04-Feb-2026 06:37:41 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[04-Feb-2026 06:54:01 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[04-Feb-2026 06:54:01 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[04-Feb-2026 06:54:01 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[04-Feb-2026 06:54:01 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[04-Feb-2026 06:54:01 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[04-Feb-2026 06:54:01 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[04-Feb-2026 07:04:32 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[04-Feb-2026 07:04:32 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[04-Feb-2026 07:04:32 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[04-Feb-2026 07:04:32 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[04-Feb-2026 07:04:32 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[04-Feb-2026 07:04:32 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[04-Feb-2026 07:04:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[04-Feb-2026 07:04:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[04-Feb-2026 07:04:37 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[04-Feb-2026 07:04:37 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[04-Feb-2026 07:04:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[04-Feb-2026 07:04:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[04-Feb-2026 07:04:44 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[04-Feb-2026 07:04:44 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[04-Feb-2026 07:04:44 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[04-Feb-2026 07:04:44 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[04-Feb-2026 07:04:44 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[04-Feb-2026 07:04:44 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[04-Feb-2026 07:05:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[04-Feb-2026 07:05:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[04-Feb-2026 07:05:53 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[04-Feb-2026 07:05:53 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[04-Feb-2026 07:05:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[04-Feb-2026 07:05:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[04-Feb-2026 07:08:08 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[04-Feb-2026 07:08:08 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[04-Feb-2026 07:08:08 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[04-Feb-2026 07:08:08 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[04-Feb-2026 07:08:08 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[04-Feb-2026 07:08:08 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 03:41:49 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 03:41:49 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 03:41:49 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 03:41:49 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 03:41:49 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 03:41:49 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 03:43:09 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 03:43:09 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 03:43:09 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 03:43:09 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 03:43:09 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 03:43:09 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 03:43:38 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 03:43:38 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 03:43:38 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 03:43:38 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 03:43:38 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 03:43:38 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 03:43:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 03:43:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 03:43:53 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 03:43:53 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 03:43:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 03:43:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 03:44:24 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 03:44:24 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 03:44:24 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 03:44:24 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 03:44:24 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 03:44:24 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 03:44:24 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 03:44:25 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 03:44:25 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 03:44:25 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 03:44:25 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 03:44:25 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 03:44:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 03:44:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 03:44:37 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 03:44:37 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 03:44:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 03:44:37 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 04:04:12 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 04:04:12 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 04:04:12 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 04:04:12 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 04:04:12 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 04:04:12 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 04:04:16 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 04:04:16 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 04:04:16 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 04:04:16 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 04:04:16 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 04:04:16 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 04:04:30 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 04:04:30 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 04:04:30 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 04:04:30 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 04:04:30 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 04:04:30 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 04:04:30 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 04:04:30 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 04:04:30 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 04:04:30 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 04:04:30 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 04:04:30 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:25:04 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:25:04 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:25:04 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:25:04 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:25:04 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:25:04 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:25:09 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:25:09 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:25:09 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:25:09 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:25:09 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:25:09 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:25:21 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:25:21 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:25:21 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:25:21 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:25:21 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:25:21 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:25:22 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:25:22 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:25:22 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:25:22 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:25:22 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:25:22 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:32:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:32:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:32:53 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:32:53 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:32:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:32:53 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:33:04 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:33:04 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:33:04 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:33:04 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:33:04 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:33:04 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:35:06 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:35:06 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:35:06 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:35:06 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:35:06 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:35:06 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:35:07 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:35:07 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:35:07 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:35:07 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:35:07 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:35:07 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:48:46 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:48:46 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:48:46 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:48:46 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:48:46 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:48:46 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:48:47 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:48:47 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:48:47 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:48:47 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:48:47 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:48:47 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:51:03 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:51:03 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:51:03 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:51:03 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:51:03 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:51:03 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:52:38 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:52:38 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:52:38 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:52:38 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:52:38 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:52:38 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:54:45 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:54:45 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:54:45 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:54:45 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:54:45 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:54:45 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:57:11 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:57:11 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:57:11 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:57:11 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:57:11 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:57:11 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:59:08 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:59:08 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:59:08 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:59:08 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:59:08 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:59:08 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:59:10 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:59:10 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:59:10 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:59:10 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:59:10 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:59:10 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:59:19 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:59:19 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:59:19 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:59:19 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:59:19 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:59:19 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 06:59:21 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 06:59:21 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 06:59:21 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 06:59:21 UTC] PHP Deprecated:  Implicit conversion from float 51.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 06:59:21 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 06:59:21 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
+[07-Feb-2026 07:00:06 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1114
+[07-Feb-2026 07:00:06 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\includes\phpqrcode.php on line 1070
+[07-Feb-2026 07:00:06 UTC] PHP Deprecated:  Implicit conversion from float 84.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 98
+[07-Feb-2026 07:00:06 UTC] PHP Deprecated:  Implicit conversion from float 72.5 to int loses precision in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 104
+[07-Feb-2026 07:00:06 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 135
+[07-Feb-2026 07:00:06 UTC] PHP Deprecated:  Function imagedestroy() is deprecated since 8.5, as it has no effect since PHP 8.0 in C:\Users\Bastin\Desktop\Parish M\generate_qr.php on line 136
